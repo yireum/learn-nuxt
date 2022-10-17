@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <h1>메인페이지</h1>
-    <div>{{ products }}</div>
-  </div>
+  <div>{{ products }}</div>
 </template>
 <script>
 import axios from 'axios'
