@@ -193,42 +193,6 @@
       "name": "Awesome Concrete Shirt",
       "price": "165.00",
       "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 5,
-      "name": "Small Rubber Salad",
-      "price": "455.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 4,
-      "name": "Unbranded Rubber Chair",
-      "price": "458.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 8,
-      "name": "Refined Fresh Chicken",
-      "price": "209.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 9,
-      "name": "Refined Fresh Chicken",
-      "price": "209.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 29,
-      "name": "Intelligent Cotton Shirt",
-      "price": "130.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 28,
-      "name": "Fantastic Metal Soap",
-      "price": "75.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
     }
   ]
 }
