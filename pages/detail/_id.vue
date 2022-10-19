@@ -33,7 +33,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: `이 상품은 ${this.product.name}`,
+          content: `이 제품은 ${this.product.name}`,
         },
       ],
     }
