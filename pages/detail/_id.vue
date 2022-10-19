@@ -26,6 +26,16 @@ export default {
     const product = response.data
     return { product }
   },
+  head: {
+    title: 'Shopping Item Detail',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: '이 상품은 ~~입니다.',
+      },
+    ],
+  },
   methods: {
     async addToCart() {
       const response = await createCartItem(this.product)
