@@ -14,7 +14,8 @@ import CartList from '~/components/CartList.vue'
 export default {
   components: { CartList },
   // async asyncData({ store }) {
-  //   await store.dispatch(FETCH_CART_ITEMS)
+  //   const response = await store.dispatch(FETCH_CART_ITEMS)
+  //   console.log(response)
   // },
 }
 </script>
